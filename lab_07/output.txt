@@ -1,0 +1,18 @@
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Queen appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 0 times.
+The word Alice appears in alice_in_wonderland.txt 383 times.
+The word Alice appears in alice_in_wonderland.txt 383 times.
+The word Alice appears in alice_in_wonderland.txt 383 times.
+The word Ahab appears in moby_dick.txt 405 times.
+The word 'the' appeared 14005 times in the file 'moby_dick.txt'.
+The word 'the' appeared 4153 times in the file 'frankenstein.txt'.
+The word 'the' appeared 7782 times in the file 'dracula.txt'.
+The word 'the' appeared 4327 times in the file 'pride_and_prejudice.txt'.
+The word 'is' appeared 1663 times in the file 'moby_dick.txt'.
+The word 'Jay' appeared 9 times in the file 'the_great_gatsby.txt'.
